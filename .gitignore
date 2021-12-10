@@ -41,3 +41,4 @@ build/CMakeFiles/object.dir/object_oriented.cc.o
 build/CMakeFiles/template.dir/template_test.cc.o
 build/CMakeFiles/type.dir/type_inference.cc.o
 build/
+*.out
