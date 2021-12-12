@@ -42,3 +42,4 @@ build/CMakeFiles/template.dir/template_test.cc.o
 build/CMakeFiles/type.dir/type_inference.cc.o
 build/
 *.out
+.cache

@@ -1,7 +1,5 @@
 cmake_minimum_required(VERSION 3.0)
 set(CMAKE_CXX_FLAGS "-std=c++17")
-set(CMAKE_TOOLCHAIN_FILE /workspace/vcpkg/scripts/buildsystems/vcpkg.cmake
-  CACHE STRING "Vcpkg toolchain file")
 project(modern_cpp_ch2)
 find_package(fmt REQUIRED)
 find_package(Eigen3 REQUIRED)

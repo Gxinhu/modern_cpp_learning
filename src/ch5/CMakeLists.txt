@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.0)
+set(CMAKE_CXX_FLAGS "-std=c++17")
+project(modern_cpp_ch5)
+find_package(fmt REQUIRED)
+add_executable(smarter smarter_pointer.cc)
