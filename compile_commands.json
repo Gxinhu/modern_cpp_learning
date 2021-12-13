@@ -1,0 +1,73 @@
+[
+{
+  "directory": "/workspace/modern_cpp_learning/build",
+  "command": "/bin/c++    -std=c++17 -g   -o src/ch2/CMakeFiles/exercise.dir/exercise.cc.o -c /workspace/modern_cpp_learning/src/ch2/exercise.cc",
+  "file": "/workspace/modern_cpp_learning/src/ch2/exercise.cc"
+},
+
+{
+  "directory": "/workspace/modern_cpp_learning/build",
+  "command": "/bin/c++  -DFMT_LOCALE -isystem /workspace/vcpkg/installed/x64-linux/include -isystem /workspace/vcpkg/installed/x64-linux/share/eigen3/../../include/eigen3  -std=c++17 -g   -o src/ch2/CMakeFiles/template.dir/template_test.cc.o -c /workspace/modern_cpp_learning/src/ch2/template_test.cc",
+  "file": "/workspace/modern_cpp_learning/src/ch2/template_test.cc"
+},
+
+{
+  "directory": "/workspace/modern_cpp_learning/build",
+  "command": "/bin/c++  -DFMT_LOCALE -isystem /workspace/vcpkg/installed/x64-linux/include -isystem /workspace/vcpkg/installed/x64-linux/share/eigen3/../../include/eigen3  -std=c++17 -g   -o src/ch2/CMakeFiles/object.dir/object_oriented.cc.o -c /workspace/modern_cpp_learning/src/ch2/object_oriented.cc",
+  "file": "/workspace/modern_cpp_learning/src/ch2/object_oriented.cc"
+},
+
+{
+  "directory": "/workspace/modern_cpp_learning/build",
+  "command": "/bin/c++  -DFMT_LOCALE -isystem /workspace/vcpkg/installed/x64-linux/include  -std=c++17 -g   -o src/ch2/CMakeFiles/type.dir/type_inference.cc.o -c /workspace/modern_cpp_learning/src/ch2/type_inference.cc",
+  "file": "/workspace/modern_cpp_learning/src/ch2/type_inference.cc"
+},
+
+{
+  "directory": "/workspace/modern_cpp_learning/build",
+  "command": "/bin/c++    -std=c++17 -g   -o src/ch2/CMakeFiles/main.dir/strength_variable.cc.o -c /workspace/modern_cpp_learning/src/ch2/strength_variable.cc",
+  "file": "/workspace/modern_cpp_learning/src/ch2/strength_variable.cc"
+},
+
+{
+  "directory": "/workspace/modern_cpp_learning/build",
+  "command": "/bin/c++  -DFMT_LOCALE -isystem /workspace/vcpkg/installed/x64-linux/include  -std=c++17 -g   -o src/ch4/CMakeFiles/unorder.dir/unorder_array.cc.o -c /workspace/modern_cpp_learning/src/ch4/unorder_array.cc",
+  "file": "/workspace/modern_cpp_learning/src/ch4/unorder_array.cc"
+},
+
+{
+  "directory": "/workspace/modern_cpp_learning/build",
+  "command": "/bin/c++  -DFMT_LOCALE -isystem /workspace/vcpkg/installed/x64-linux/include  -std=c++17 -g   -o src/ch4/CMakeFiles/learn_array.dir/constant_array.cc.o -c /workspace/modern_cpp_learning/src/ch4/constant_array.cc",
+  "file": "/workspace/modern_cpp_learning/src/ch4/constant_array.cc"
+},
+
+{
+  "directory": "/workspace/modern_cpp_learning/build",
+  "command": "/bin/c++  -DFMT_LOCALE -isystem /workspace/vcpkg/installed/x64-linux/include  -std=c++17 -g   -o src/ch3/CMakeFiles/right.dir/right_reference.cc.o -c /workspace/modern_cpp_learning/src/ch3/right_reference.cc",
+  "file": "/workspace/modern_cpp_learning/src/ch3/right_reference.cc"
+},
+
+{
+  "directory": "/workspace/modern_cpp_learning/build",
+  "command": "/bin/c++  -DFMT_LOCALE -isystem /workspace/vcpkg/installed/x64-linux/include  -std=c++17 -g   -o src/ch3/CMakeFiles/function.dir/function_package.cc.o -c /workspace/modern_cpp_learning/src/ch3/function_package.cc",
+  "file": "/workspace/modern_cpp_learning/src/ch3/function_package.cc"
+},
+
+{
+  "directory": "/workspace/modern_cpp_learning/build",
+  "command": "/bin/c++  -DFMT_LOCALE -isystem /workspace/vcpkg/installed/x64-linux/include  -std=c++17 -g   -o src/ch3/CMakeFiles/lambda.dir/lambda_learning.cc.o -c /workspace/modern_cpp_learning/src/ch3/lambda_learning.cc",
+  "file": "/workspace/modern_cpp_learning/src/ch3/lambda_learning.cc"
+},
+
+{
+  "directory": "/workspace/modern_cpp_learning/build",
+  "command": "/bin/c++    -std=c++17 -g   -o src/ch5/CMakeFiles/smarter.dir/smarter_pointer.cc.o -c /workspace/modern_cpp_learning/src/ch5/smarter_pointer.cc",
+  "file": "/workspace/modern_cpp_learning/src/ch5/smarter_pointer.cc"
+},
+
+{
+  "directory": "/workspace/modern_cpp_learning/build",
+  "command": "/bin/c++  -DFMT_LOCALE -isystem /workspace/vcpkg/installed/x64-linux/include  -std=c++17 -g   -o src/ch7/CMakeFiles/thread_test.dir/multiprocess.cc.o -c /workspace/modern_cpp_learning/src/ch7/multiprocess.cc",
+  "file": "/workspace/modern_cpp_learning/src/ch7/multiprocess.cc"
+}
+]
